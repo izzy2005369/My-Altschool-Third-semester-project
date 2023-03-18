@@ -15,13 +15,13 @@ Note: This is currently under active development
 
 ## Live ( deployed version ) 
 
-Visit [website](http://olakaycoder1.pythonanywhere.com/)
+Visit [website](http://isreal.pythonanywhere.com/)
 ## Testing Locally
 
 Clone the repository
 
 ```console
-git clone https://github.com/olakayCoder1/student_management.git
+git clone https://github.com/izzy2005369/My-Altschool-Third-semester-project.git
 ```
 
 Change directory to the cloned folder
